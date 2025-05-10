@@ -14,6 +14,13 @@ For some weeks, I've explored certain topics in more depth—this includes writi
 
 This format helps keep the material organized and also reflects my learning journey through the course.
 
+## 🧾 Repository Index
+
+### Week 1:
+- [Basics_of_Linear_Algebra.ipynb](week1/Basics_of_Linear_Algebra.ipynb)
+- [Theoretic- Private Information Retrieval Notes]()
+
+
 ## 🚀 Getting Started
 
 To clone and use this repository locally:
