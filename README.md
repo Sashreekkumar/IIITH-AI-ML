@@ -20,6 +20,9 @@ This format helps keep the material organized and also reflects my learning jour
 - [Basics_of_Linear_Algebra.ipynb](week1/Basics_of_Linear_Algebra.ipynb)
 - [Theoretic- Private Information Retrieval Notes]()
 
+### Week 2:
+- [AIML_Course_Probability_Primer.ipynb](week2\AIML_Course_Probability_Primer.ipynb)
+- [Real-Time Machine Learning Notes]()
 
 ## 🚀 Getting Started
 
