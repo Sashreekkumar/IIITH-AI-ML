@@ -22,7 +22,7 @@ This format helps keep the material organized and also reflects my learning jour
 
 ### Week 2:
 - [AIML_Course_Probability_Primer.ipynb](week2\AIML_Course_Probability_Primer.ipynb)
-- [Real-Time Machine Learning Notes]()
+- [Real-Time Machine Learning Notes](https://github.com/Sashreekkumar/IIITH-AI-ML/blob/main/week2/Real-Time%20Machine%20Learning.pdf)
 
 ## 🚀 Getting Started
 
