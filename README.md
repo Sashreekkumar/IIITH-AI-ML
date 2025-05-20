@@ -18,7 +18,7 @@ This format helps keep the material organized and also reflects my learning jour
 
 ### Week 1:
 - [Basics_of_Linear_Algebra.ipynb](week1/Basics_of_Linear_Algebra.ipynb)
-- [Theoretic- Private Information Retrieval Notes]()
+- [Theoretic- Private Information Retrieval Notes](https://github.com/Sashreekkumar/IIITH-AI-ML/blob/main/week1/Theoretic-%20Privacy%20Information%20Retrieval.pdf)
 
 ### Week 2:
 - [AIML_Course_Probability_Primer.ipynb](week2\AIML_Course_Probability_Primer.ipynb)
