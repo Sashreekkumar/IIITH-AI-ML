@@ -24,6 +24,10 @@ This format helps keep the material organized and also reflects my learning jour
 - [AIML_Course_Probability_Primer.ipynb](week2\AIML_Course_Probability_Primer.ipynb)
 - [Real-Time Machine Learning Notes](https://github.com/Sashreekkumar/IIITH-AI-ML/blob/main/week2/Real-Time%20Machine%20Learning.pdf)
 
+### Week 3:
+- [Module_01_Lab_01_Answers.ipynb](https://github.com/Sashreekkumar/IIITH-AI-ML/blob/main/week3/Module_01_Lab_01_Answers.ipynb)
+- [Module_01_Lab_01_Features.ipynb](https://github.com/Sashreekkumar/IIITH-AI-ML/blob/main/week3/Module_01_Lab_01_Features.ipynb)
+
 ## 🚀 Getting Started
 
 To clone and use this repository locally:
