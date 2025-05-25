@@ -21,12 +21,14 @@ This format helps keep the material organized and also reflects my learning jour
 - [Theoretic- Private Information Retrieval Notes](https://github.com/Sashreekkumar/IIITH-AI-ML/blob/main/week1/Theoretic-%20Privacy%20Information%20Retrieval.pdf)
 
 ### Week 2:
-- [AIML_Course_Probability_Primer.ipynb](week2\AIML_Course_Probability_Primer.ipynb)
+- [AIML_Course_Probability_Primer.ipynb](week2/AIML_Course_Probability_Primer.ipynb)
 - [Real-Time Machine Learning Notes](https://github.com/Sashreekkumar/IIITH-AI-ML/blob/main/week2/Real-Time%20Machine%20Learning.pdf)
 
 ### Week 3:
-- [Module_01_Lab_01_Answers.ipynb](https://github.com/Sashreekkumar/IIITH-AI-ML/blob/main/week3/Module_01_Lab_01_Answers.ipynb)
-- [Module_01_Lab_01_Features.ipynb](https://github.com/Sashreekkumar/IIITH-AI-ML/blob/main/week3/Module_01_Lab_01_Features.ipynb)
+- [Module_01_Lab_01_Answers.ipynb](week3/Module_01_Lab_01_Answers.ipynb)
+- [Module_01_Lab_01_Features.ipynb](week3/Module_01_Lab_01_Features.ipynb)
+- [BhagavadGita Sanskrit Dataset](week3/bhagvadnew.txt)
+- [BhagavadGita English Dataset](week3/gita.txt)
 
 ## 🚀 Getting Started
 
