@@ -30,6 +30,11 @@ This format helps keep the material organized and also reflects my learning jour
 - [BhagavadGita Sanskrit Dataset](week3/bhagvadnew.txt)
 - [BhagavadGita English Dataset](week3/gita.txt)
 
+### Week 4:
+- [Module_01_Lab_02_Machine_Learning_terms_and_metrics.ipynb](week4/Module_01_Lab_02_Machine_Learning_terms_and_metrics.ipynb)
+- [week4/Module_01_Lab_03_Data_Augmentation.ipynb](week4/Module_01_Lab_03_Data_Augmentation.ipynb)
+- [Module_01_Lab_04_Transforming_data_using_linear_algebra.ipynb](week4/Module_01_Lab_04_Transforming_data_using_linear_algebra.ipynb)
+
 ## 🚀 Getting Started
 
 To clone and use this repository locally:
