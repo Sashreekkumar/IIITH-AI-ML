@@ -36,6 +36,16 @@ This format helps keep the material organized and also reflects my learning jour
 - [week4/Module_01_Lab_03_Data_Augmentation.ipynb](week4/Module_01_Lab_03_Data_Augmentation.ipynb)
 - [Module_01_Lab_04_Transforming_data_using_linear_algebra.ipynb](week4/Module_01_Lab_04_Transforming_data_using_linear_algebra.ipynb)
 
+### Week 5:
+- [PCA notes by Dr. Monalisa Patra](week5/PCA.pdf)
+- [Understanding Data notes by Dr. Monalisa Patra](week5/Understanding_Data.pdf)
+
+### Week 6:
+- [Non-Linear Dimensionality Reduction by Isomap Notes](week6/Isomap.pdf)
+
+
+### Week 6:
+
 ## 🚀 Getting Started
 
 To clone and use this repository locally:
