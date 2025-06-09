@@ -39,12 +39,20 @@ This format helps keep the material organized and also reflects my learning jour
 ### Week 5:
 - [PCA notes by Dr. Monalisa Patra](week5/PCA.pdf)
 - [Understanding Data notes by Dr. Monalisa Patra](week5/Understanding_Data.pdf)
+<details>
+  <summary>SVD (Independent Self-Initiated Supplementary Project)</summary>
+
+  - [SVD.md](week5/SVD/svd.md)
+  - [SVD.ipynb](week5/SVD/SVD.ipynb)
+  - [Image for SVD](week5/SVD/me.jpg)
+  - [Eigen Faces DataSet](week5/SVD/allFaces.mat)
+
+</details>
 
 ### Week 6:
 - [Non-Linear Dimensionality Reduction by Isomap Notes](week6/Isomap.pdf)
 
 
-### Week 6:
 
 ## 🚀 Getting Started
 
