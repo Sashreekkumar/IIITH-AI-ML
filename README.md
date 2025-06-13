@@ -40,7 +40,7 @@ This format helps keep the material organized and also reflects my learning jour
 - [PCA notes by Dr. Monalisa Patra](week5/PCA.pdf)
 - [Understanding Data notes by Dr. Monalisa Patra](week5/Understanding_Data.pdf)
 <details>
-  <summary>SVD (Independent Self-Initiated Supplementary Project)</summary>
+  <summary>SVD- Eigen Faces (Mini-Project)</summary>
 
   - [SVD.md](week5/SVD/svd.md)
   - [SVD.ipynb](week5/SVD/SVD.ipynb)
@@ -50,7 +50,16 @@ This format helps keep the material organized and also reflects my learning jour
 </details>
 
 ### Week 6:
-- [Non-Linear Dimensionality Reduction by Isomap Notes](week6/Isomap.pdf)
+- [Non-Linear Dimensionality Reduction by Isomap Notes](week6/Isomap%20for%20Non-Linear%20Dimensionality%20Reduction.pdf)
+
+<details>
+  <summary>GloVe Embeddings- tSNE and PCA (Mini-Project)</summary>
+
+  - [GloVe_Embeddings.md](week6/tSNE%20and%20PCA/GloVe_Embeddings.md)
+  - [glove-embeddings.ipynb](week6/tSNE%20and%20PCA/glove-embeddings.ipynb)
+
+</details>
+
 
 
 
