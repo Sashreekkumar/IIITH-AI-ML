@@ -51,6 +51,7 @@ This format helps keep the material organized and also reflects my learning jour
 
 ### Week 6:
 - [Non-Linear Dimensionality Reduction by Isomap Notes](week6/Isomap%20for%20Non-Linear%20Dimensionality%20Reduction.pdf)
+- [Module_2_Lab_1_Manifold_Learning_Methods.ipynb](week6/Module_2_Lab_1_Manifold_Learning_Methods.ipynb)
 
 <details>
   <summary>GloVe Embeddings- tSNE and PCA (Mini-Project)</summary>
