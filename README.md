@@ -61,6 +61,8 @@ This format helps keep the material organized and also reflects my learning jour
 
 </details>
 
+### Week 7 
+- [DAGs in Apache Airflow with Python by Vivek Mathur](week7/DAGs_in_Apache_Airflow_with_Python.ipynb)
 
 
 
