@@ -64,7 +64,8 @@ This format helps keep the material organized and also reflects my learning jour
 ### Week 7 
 - [DAGs in Apache Airflow with Python by Vivek Mathur](week7/DAGs_in_Apache_Airflow_with_Python.ipynb)
 
-
+### Week 8
+- [Module_02_Lab_01_Basic_Plots.ipynb](week8/Module_02_Lab_01_Basic_Plots.ipynb)
 
 ## 🚀 Getting Started
 
