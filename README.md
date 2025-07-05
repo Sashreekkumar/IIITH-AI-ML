@@ -46,6 +46,7 @@ This format helps keep the material organized and also reflects my learning jour
   - [SVD.ipynb](week5/SVD/SVD.ipynb)
   - [Image for SVD](week5/SVD/me.jpg)
   - [Eigen Faces DataSet](week5/SVD/allFaces.mat)
+  - [eigenfaces.ipynb](week5/SVD/eigenfaces.ipynb)
 
 </details>
 
