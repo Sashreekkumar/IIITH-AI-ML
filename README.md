@@ -10,7 +10,7 @@ The repository is structured week-wise, with folders named `week1`, `week2`, `we
 - Partial notes summarizing key topics discussed in class
 - Additional research or mini-projects on specific topics (where applicable)
 
-For some weeks, I've explored certain topics in more depth—this includes writing custom code, creating detailed notes, and building small related projects. References and sources for such additional research will be mentioned in a separate `README.md` file inside the respective week's folder.
+For some weeks, I've explored certain topics in more depth-this includes writing custom code, creating detailed notes, and building small related projects. References and sources for such additional research will be mentioned in a separate `README.md` file inside the respective week's folder.
 
 This format helps keep the material organized and also reflects my learning journey through the course.
 
@@ -66,6 +66,10 @@ This format helps keep the material organized and also reflects my learning jour
 
 ### Week 8
 - [Module_02_Lab_01_Basic_Plots.ipynb](week8/Module_02_Lab_01_Basic_Plots.ipynb)
+
+
+### Week 9
+- [Module_2_Lab2_Principal_Components_Analysis_(PCA)](week9/Module_2_Lab2_Principal_Components_Analysis_(PCA).ipynb)
 
 ## 🚀 Getting Started
 
