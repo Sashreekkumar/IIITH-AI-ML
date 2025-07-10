@@ -72,6 +72,10 @@ This format helps keep the material organized and also reflects my learning jour
 ### Week 9
 - [Module_2_Lab2_Principal_Components_Analysis_(PCA)](week9/Module_2_Lab2_Principal_Components_Analysis_(PCA).ipynb)
 
+### Week 10
+- [Module_2_Lab_4_t_SNE.ipynb](week10/Module_2_Lab_4_t_SNE.ipynb)
+
+
 ## 🚀 Getting Started
 
 To clone and use this repository locally:
