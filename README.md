@@ -17,9 +17,9 @@ This format helps keep the material organized and also reflects my learning jour
 ## 🧾 Repository Index
 
 ### Proeject 1: SARS CoV-2: Dimensionality Reduction
--[AIML_Project_Module_2.ipynb](Project-1-SARS-CoV2-tSNE-and-PCA\AIML_Project_Module_2.ipynb)
--[Dataseta](Project-1-SARS-CoV2-tSNE-and-PCA\INDIA_685.csv)
--[Datasetb](Project-1-SARS-CoV2-tSNE-and-PCA\sequences.fasta)
+- [AIML_Project_Module_2.ipynb](Project-1-SARS-CoV2-tSNE-and-PCA\AIML_Project_Module_2.ipynb)
+- [Dataseta](Project-1-SARS-CoV2-tSNE-and-PCA\INDIA_685.csv)
+- [Datasetb](Project-1-SARS-CoV2-tSNE-and-PCA\sequences.fasta)
 
 ### Week 1:
 - [Basics_of_Linear_Algebra.ipynb](week1/Basics_of_Linear_Algebra.ipynb)
