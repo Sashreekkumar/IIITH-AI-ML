@@ -16,10 +16,35 @@ This format helps keep the material organized and also reflects my learning jour
 
 ## 🧾 Repository Index
 
-### Proeject 1: SARS CoV-2: Dimensionality Reduction
+### Projects:
+
+<details> 
+<summary> Module 2 Project: SARS CoV-2: Dimensionality Reduction </summary>
+
 - [AIML_Project_Module_2.ipynb](Project-1-SARS-CoV2-tSNE-and-PCA\AIML_Project_Module_2.ipynb)
 - [Dataseta](Project-1-SARS-CoV2-tSNE-and-PCA\INDIA_685.csv)
 - [Datasetb](Project-1-SARS-CoV2-tSNE-and-PCA\sequences.fasta)
+
+</details>
+
+<details>
+  <summary>SVD- Eigen Faces (Mini-Project)</summary>
+
+  - [SVD.md](week5/SVD/svd.md)
+  - [SVD.ipynb](week5/SVD/SVD.ipynb)
+  - [Image for SVD](week5/SVD/me.jpg)
+  - [Eigen Faces DataSet](week5/SVD/allFaces.mat)
+  - [eigenfaces.ipynb](week5/SVD/eigenfaces.ipynb)
+
+</details>
+
+<details>
+  <summary>GloVe Embeddings- tSNE and PCA (Mini-Project)</summary>
+
+  - [GloVe_Embeddings.md](week6/tSNE%20and%20PCA/GloVe_Embeddings.md)
+  - [glove-embeddings.ipynb](week6/tSNE%20and%20PCA/glove-embeddings.ipynb)
+
+</details>
 
 ### Week 1:
 - [Basics_of_Linear_Algebra.ipynb](week1/Basics_of_Linear_Algebra.ipynb)
@@ -44,28 +69,11 @@ This format helps keep the material organized and also reflects my learning jour
 ### Week 5:
 - [PCA notes by Dr. Monalisa Patra](week5/PCA.pdf)
 - [Understanding Data notes by Dr. Monalisa Patra](week5/Understanding_Data.pdf)
-<details>
-  <summary>SVD- Eigen Faces (Mini-Project)</summary>
 
-  - [SVD.md](week5/SVD/svd.md)
-  - [SVD.ipynb](week5/SVD/SVD.ipynb)
-  - [Image for SVD](week5/SVD/me.jpg)
-  - [Eigen Faces DataSet](week5/SVD/allFaces.mat)
-  - [eigenfaces.ipynb](week5/SVD/eigenfaces.ipynb)
-
-</details>
 
 ### Week 6:
 - [Non-Linear Dimensionality Reduction by Isomap Notes](week6/Isomap%20for%20Non-Linear%20Dimensionality%20Reduction.pdf)
 - [Module_2_Lab_1_Manifold_Learning_Methods.ipynb](week6/Module_2_Lab_1_Manifold_Learning_Methods.ipynb)
-
-<details>
-  <summary>GloVe Embeddings- tSNE and PCA (Mini-Project)</summary>
-
-  - [GloVe_Embeddings.md](week6/tSNE%20and%20PCA/GloVe_Embeddings.md)
-  - [glove-embeddings.ipynb](week6/tSNE%20and%20PCA/glove-embeddings.ipynb)
-
-</details>
 
 ### Week 7 
 - [DAGs in Apache Airflow with Python by Vivek Mathur](week7/DAGs_in_Apache_Airflow_with_Python.ipynb)
@@ -73,13 +81,35 @@ This format helps keep the material organized and also reflects my learning jour
 ### Week 8
 - [Module_02_Lab_01_Basic_Plots.ipynb](week8/Module_02_Lab_01_Basic_Plots.ipynb)
 
-
 ### Week 9
 - [Module_2_Lab2_Principal_Components_Analysis_(PCA)](week9/Module_2_Lab2_Principal_Components_Analysis_(PCA).ipynb)
 
 ### Week 10
 - [Module_2_Lab_4_t_SNE.ipynb](week10/Module_2_Lab_4_t_SNE.ipynb)
 
+### Week 11
+- [Module_3_Lab_1_Understanding_Distance_metrics_and_Introduction_to_KNN.ipynb](week11/Module_3_Lab_1_Understanding_Distance_metrics_and_Introduction_to_KNN.ipynb)
+
+### Week 12
+- [Module_3_Lab_2_Using_KNN_for_Text_Classification.ipynb](week12/Module_3_Lab_2_Using_KNN_for_Text_Classification.ipynb)
+- [Dataset 1: reviews.csv](week12/reviews.csv)
+- [Dataset 2: spam.csv](week12/spam.csv)
+
+### Week 13
+- [Module_4_Lab_1_Perceptron_and_Gradient_Descent.ipynb](week13/Module_4_Lab_1_Perceptron_and_Gradient_Descent.ipynb)
+
+### Week 14
+- [Module_3_Lab_3_Implementing_KNN_from_scratch_and_visualize_Algorithm_performance.ipynb](week14/Module_3_Lab_3_Implementing_KNN_from_scratch_and_visualize_Algorithm_performance.ipynb)
+- [Dataset: car_evaluation.csv](week14/car_evaluation.csv)
+
+### Week 15
+- [Module_4_Lab_2_Introduction_to_Gradient_Descent.ipynb](week15/Module_4_Lab_2_Introduction_to_Gradient_Descent.ipynb)
+
+### Week 16
+- COMING SOON
+
+### Week 17
+- [Module_5_Lab_1_Linear_Regression,_MSE_and_Polynomial_Regression.ipynb](week17/Module_5_Lab_1_Linear_Regression,_MSE_and_Polynomial_Regression.ipynb)
 
 ## 🚀 Getting Started
 
