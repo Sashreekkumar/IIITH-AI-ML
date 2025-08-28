@@ -46,6 +46,14 @@ This format helps keep the material organized and also reflects my learning jour
 
 </details>
 
+<details>
+  <summary>MNIST- SIMPLE Neural Network from Scratch, only NUMPY</summary>
+
+  - [simple_mnist_nn_from_scratch_numpy.py](week15/Simple%20Neural%20Network/simple_mnist_nn_from_scratch_numpy.py)
+  - [simple_nn.md](week15/Simple%20Neural%20Network/simple_nn.md)
+
+</details>
+
 ### Week 1:
 - [Basics_of_Linear_Algebra.ipynb](week1/Basics_of_Linear_Algebra.ipynb)
 - [Theoretic- Private Information Retrieval Notes](https://github.com/Sashreekkumar/IIITH-AI-ML/blob/main/week1/Theoretic-%20Privacy%20Information%20Retrieval.pdf)
