@@ -28,13 +28,18 @@ This format helps keep the material organized and also reflects my learning jour
 </details>
 
 <details>
-  <summary>SVD- Eigen Faces (Mini-Project)</summary>
+  <summary>MNIST- SIMPLE CNN using PyTorch</summary>
 
-  - [SVD.md](week5/SVD/svd.md)
-  - [SVD.ipynb](week5/SVD/SVD.ipynb)
-  - [Image for SVD](week5/SVD/me.jpg)
-  - [Eigen Faces DataSet](week5/SVD/allFaces.mat)
-  - [eigenfaces.ipynb](week5/SVD/eigenfaces.ipynb)
+  - [MNIST_simpleCNN_using_pytorch.py](week16/Simple%20CNN%20using%20Pytorch%20MNIST/MNIST_simpleCNN_using_pytorch.py)
+  - [simple_cnn.md](week16/Simple%20CNN%20using%20Pytorch%20MNIST/simple_cnn.md)
+
+</details>
+
+<details>
+  <summary>MNIST- SIMPLE Neural Network from Scratch, only NUMPY</summary>
+
+  - [simple_mnist_nn_from_scratch_numpy.py](week15/Simple%20Neural%20Network/simple_mnist_nn_from_scratch_numpy.py)
+  - [simple_nn.md](week15/Simple%20Neural%20Network/simple_nn.md)
 
 </details>
 
@@ -47,12 +52,19 @@ This format helps keep the material organized and also reflects my learning jour
 </details>
 
 <details>
-  <summary>MNIST- SIMPLE Neural Network from Scratch, only NUMPY</summary>
+  <summary>SVD- Eigen Faces (Mini-Project)</summary>
 
-  - [simple_mnist_nn_from_scratch_numpy.py](week15/Simple%20Neural%20Network/simple_mnist_nn_from_scratch_numpy.py)
-  - [simple_nn.md](week15/Simple%20Neural%20Network/simple_nn.md)
+  - [SVD.md](week5/SVD/svd.md)
+  - [SVD.ipynb](week5/SVD/SVD.ipynb)
+  - [Image for SVD](week5/SVD/me.jpg)
+  - [Eigen Faces DataSet](week5/SVD/allFaces.mat)
+  - [eigenfaces.ipynb](week5/SVD/eigenfaces.ipynb)
 
 </details>
+
+
+
+
 
 ### Week 1:
 - [Basics_of_Linear_Algebra.ipynb](week1/Basics_of_Linear_Algebra.ipynb)
