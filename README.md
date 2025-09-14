@@ -129,10 +129,19 @@ This format helps keep the material organized and also reflects my learning jour
 - [Module_4_Lab_2_Introduction_to_Gradient_Descent.ipynb](week15/Module_4_Lab_2_Introduction_to_Gradient_Descent.ipynb)
 
 ### Week 16
-- COMING SOON
+- [Module_4_Lab_3_Gradient_Descent.ipynb](week16/Module_4_Lab_3_Gradient_Descent.ipynb)
 
 ### Week 17
 - [Module_5_Lab_1_Linear_Regression,_MSE_and_Polynomial_Regression.ipynb](week17/Module_5_Lab_1_Linear_Regression,_MSE_and_Polynomial_Regression.ipynb)
+
+### Week 18
+- [Module_5_Lab_2_Loss_Functions.ipynb](week18/Module_5_Lab_2_Loss_Functions.ipynb)
+
+### Week 19
+- [Module_5_Lab_3_Clustering.ipynb](week19/Module_5_Lab_3_Clustering.ipynb)
+
+### Week 20
+- [Implementing_forward_propagation_and_back_propagation.ipynb](week20/Implementing_forward_propagation_and_back_propagation.ipynb)
 
 ## 🚀 Getting Started
 
