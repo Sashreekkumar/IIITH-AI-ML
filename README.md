@@ -18,6 +18,8 @@ This format helps keep the material organized and also reflects my learning jour
 
 ### Projects:
 
+
+
 <details> 
 <summary> Module 2 Project: SARS CoV-2: Dimensionality Reduction </summary>
 
@@ -26,6 +28,10 @@ This format helps keep the material organized and also reflects my learning jour
 - [Datasetb](Project-1-SARS-CoV2-tSNE-and-PCA\sequences.fasta)
 
 </details>
+
+<br>
+
+ ▶ [Research Paper Implementations](https://github.com/Sashreekkumar/research-paper-implementations)
 
 <details>
   <summary>MNIST- SIMPLE CNN using PyTorch</summary>
@@ -63,9 +69,6 @@ This format helps keep the material organized and also reflects my learning jour
 </details>
 
 
-
-
-
 ### Week 1:
 - [Basics_of_Linear_Algebra.ipynb](week1/Basics_of_Linear_Algebra.ipynb)
 - [Theoretic- Private Information Retrieval Notes](https://github.com/Sashreekkumar/IIITH-AI-ML/blob/main/week1/Theoretic-%20Privacy%20Information%20Retrieval.pdf)
@@ -83,7 +86,7 @@ This format helps keep the material organized and also reflects my learning jour
 ### Week 4:
 - [Data Analysis Pipeline Notes](week4/Data_Analysis_Pipeline.pdf)
 - [Module_01_Lab_02_Machine_Learning_terms_and_metrics.ipynb](week4/Module_01_Lab_02_Machine_Learning_terms_and_metrics.ipynb)
-- [week4/Module_01_Lab_03_Data_Augmentation.ipynb](week4/Module_01_Lab_03_Data_Augmentation.ipynb)
+- [Module_01_Lab_03_Data_Augmentation.ipynb](week4/Module_01_Lab_03_Data_Augmentation.ipynb)
 - [Module_01_Lab_04_Transforming_data_using_linear_algebra.ipynb](week4/Module_01_Lab_04_Transforming_data_using_linear_algebra.ipynb)
 
 ### Week 5:
