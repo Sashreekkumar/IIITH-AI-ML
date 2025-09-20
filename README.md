@@ -136,12 +136,16 @@ This format helps keep the material organized and also reflects my learning jour
 
 ### Week 18
 - [Module_5_Lab_2_Loss_Functions.ipynb](week18/Module_5_Lab_2_Loss_Functions.ipynb)
+- [Convolutional Neural Networks and Lenet Notes](week18/Convolutional%20Neural%20Networks%20and%20LeNet.pdf)
 
 ### Week 19
 - [Module_5_Lab_3_Clustering.ipynb](week19/Module_5_Lab_3_Clustering.ipynb)
 
 ### Week 20
 - [Implementing_forward_propagation_and_back_propagation.ipynb](week20/Implementing_forward_propagation_and_back_propagation.ipynb)
+
+### Week 21
+- [Training_a_Neural_Network.ipynb](week21/Training_a_Neural_Network.ipynb)
 
 ## 🚀 Getting Started
 
