@@ -181,4 +181,4 @@ To clone and use this repository locally:
 
 ```bash
 git clone https://github.com/Sashreekkumar/IIITH-AI-ML.git
-cd iiith-aiml-program
+cd IIITH-AI-ML
