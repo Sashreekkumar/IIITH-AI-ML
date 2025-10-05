@@ -29,6 +29,32 @@ This format helps keep the material organized and also reflects my learning jour
 
 </details>
 
+<details> 
+<summary> Module 3 Project Diabetes Data Set </summary>
+
+- [AIML_Project_Module_3.ipynb](Diabetes-Data-Set/AIML_Module_3_project.ipynb)
+- [Diabetes Data Set](Diabetes-Data-Set/diabetes.csv)
+
+
+</details>
+
+<details> 
+<summary> Module 4 Project: Perceptron and Gradient Descent </summary>
+
+- [AIML_Project_Module_4.ipynb](Perceptron-and-Gradient-Descent/AIML-Module-4-Project.ipynb)
+
+
+
+</details>
+
+<details> 
+<summary> Module 5 Project: COVID-19 Regression </summary>
+
+- [AIML_Project_Module_2.ipynb](COVID-19-Regression/AIML_Project_MOdule_5.ipynb)
+
+
+</details>
+
 <br>
 
  ▶ [Research Paper Implementations](https://github.com/Sashreekkumar/research-paper-implementations)
