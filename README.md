@@ -173,6 +173,9 @@ This format helps keep the material organized and also reflects my learning jour
 ### Week 21
 - [Training_a_Neural_Network.ipynb](week21/Training_a_Neural_Network.ipynb)
 
+### Week 22
+- [AIML_RNN_Training_.ipynb](week22/AIML_RNN_Training_.ipynb)
+
 ## 🚀 Getting Started
 
 To clone and use this repository locally:
